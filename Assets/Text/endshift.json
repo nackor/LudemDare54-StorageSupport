@@ -1,0 +1,17 @@
+{
+  "chats": [
+    {
+      "Message": "Great job on your shift!"
+    },
+    {
+      "Message": "You can see how you did in the TicketTracker"
+    },
+    {
+      "Message": "Dont' forget to check the rules on your next shift!"
+    },
+    {
+      "Message": "Are you ready for your next shift?",
+      "Question": "true"
+    }
+  ]
+}

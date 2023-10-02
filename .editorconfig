@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0161: 'FileGenerator.FileNames()': not all code paths return a value
+dotnet_diagnostic.CS0161.severity = none

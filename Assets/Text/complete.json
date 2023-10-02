@@ -1,0 +1,34 @@
+{
+  "chats": [
+    {
+      "Message": "Hello! Welcome to your first day as a storage engineer",
+    },
+    {
+      "Message": "Do you need a rundown of your role here?",
+    },
+    {
+      "Message": "Of course you do, its your first day",
+    },
+    {
+      "Message": "Your job is to move files as they arive to their relevant storage places.",
+    },
+    {
+      "Message": "File arrive in the green File Transfer Area window",
+    },
+    {
+      "Message": "You need to drag and drop files and folders on the correct drives.",
+    },
+    {
+      "Message": "You need to first open the correct drive, by double clicking it.",
+    },
+    {
+      "Message": "Make sure you have enough space on the drive!",
+    },
+    {
+      "Message": "Lastly, you need follow all the procudes in the Storage Rules document",
+    },
+    {
+      "Message": "Good luck!",
+    }
+  ]
+}
